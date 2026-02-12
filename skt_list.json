@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "updatedAt": "2026-02-12T21:52:52Z",
+  "updatedAt": "2026-02-12T21:56:30Z",
   "items": [
     {
       "barcode": "8693279412838",
       "name": "Banvit jumbo sosis",
       "qrData": null,
-      "expiryDate": "2026-02-19T00:00:00.000",
+      "expiryDate": "2026-02-12T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -14,7 +14,7 @@
       "barcode": "8691384464896",
       "name": "Hanımdan Profiterol",
       "qrData": null,
-      "expiryDate": "2026-02-13T00:00:00.000",
+      "expiryDate": "2026-02-12T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -22,7 +22,7 @@
       "barcode": "8699562057090",
       "name": "Activia Bowl",
       "qrData": null,
-      "expiryDate": "2026-02-13T00:00:00.000",
+      "expiryDate": "2026-02-12T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -30,7 +30,7 @@
       "barcode": "8691410654437",
       "name": "Tommis Çıtır Tavuk Burger",
       "qrData": null,
-      "expiryDate": "2026-02-14T00:00:00.000",
+      "expiryDate": "2026-02-13T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -38,7 +38,7 @@
       "barcode": "8699532696861",
       "name": "Birşah Ayran 200ml",
       "qrData": null,
-      "expiryDate": "2026-02-14T00:00:00.000",
+      "expiryDate": "2026-02-13T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -46,7 +46,7 @@
       "barcode": "8691656408818",
       "name": "Danone Çıtırdat Yoğurt Çilekli",
       "qrData": null,
-      "expiryDate": "2026-02-14T00:00:00.000",
+      "expiryDate": "2026-02-13T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -54,7 +54,7 @@
       "barcode": "8695089387061",
       "name": "Birşah 1.5 Kilo Yoğurt",
       "qrData": null,
-      "expiryDate": "2026-02-14T00:00:00.000",
+      "expiryDate": "2026-02-13T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -62,7 +62,7 @@
       "barcode": "8696838641953",
       "name": "Danone Sütlü Milkshake",
       "qrData": null,
-      "expiryDate": "2026-02-14T00:00:00.000",
+      "expiryDate": "2026-02-13T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -70,7 +70,7 @@
       "barcode": "8694374288908",
       "name": "Sek Protein Kakao",
       "qrData": null,
-      "expiryDate": "2026-02-21T00:00:00.000",
+      "expiryDate": "2026-02-14T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -78,7 +78,7 @@
       "barcode": "8696765649893",
       "name": "Dorbi  Yaş Maya",
       "qrData": null,
-      "expiryDate": "2026-02-22T00:00:00.000",
+      "expiryDate": "2026-02-15T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -86,7 +86,7 @@
       "barcode": "8694999982762",
       "name": "Sek Naneli Ayran",
       "qrData": null,
-      "expiryDate": "2026-02-16T00:00:00.000",
+      "expiryDate": "2026-02-15T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -94,7 +94,7 @@
       "barcode": "8694833113833",
       "name": "Danone Taze Peynir Meyveli",
       "qrData": null,
-      "expiryDate": "2026-02-16T00:00:00.000",
+      "expiryDate": "2026-02-15T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -102,7 +102,7 @@
       "barcode": "8691107031695",
       "name": "Birşah Kefir Sade 1 LT",
       "qrData": null,
-      "expiryDate": "2026-02-23T00:00:00.000",
+      "expiryDate": "2026-02-16T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -110,7 +110,7 @@
       "barcode": "8692296409135",
       "name": "Nimet Yufka Baklavalık",
       "qrData": null,
-      "expiryDate": "2026-02-23T00:00:00.000",
+      "expiryDate": "2026-02-16T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -118,7 +118,7 @@
       "barcode": "8690247540920",
       "name": "Danone Mix Yoğurt",
       "qrData": null,
-      "expiryDate": "2026-02-17T00:00:00.000",
+      "expiryDate": "2026-02-16T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -126,7 +126,7 @@
       "barcode": "8695697838337",
       "name": "Bişah 500Gr Yoğurt",
       "qrData": null,
-      "expiryDate": "2026-02-17T00:00:00.000",
+      "expiryDate": "2026-02-16T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -134,7 +134,7 @@
       "barcode": "8698456701699",
       "name": "Eker Dipsos",
       "qrData": null,
-      "expiryDate": "2026-02-18T00:00:00.000",
+      "expiryDate": "2026-02-17T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -142,7 +142,7 @@
       "barcode": "8692364025113",
       "name": "Birşah Kaymaklı Tava",
       "qrData": null,
-      "expiryDate": "2026-02-18T00:00:00.000",
+      "expiryDate": "2026-02-17T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -150,7 +150,7 @@
       "barcode": "8695850011553",
       "name": "Sek Sütlü Milkshake",
       "qrData": null,
-      "expiryDate": "2026-02-18T00:00:00.000",
+      "expiryDate": "2026-02-17T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -158,7 +158,7 @@
       "barcode": "8696867667306",
       "name": "AltınKılıç Kefir Orman Mey.",
       "qrData": null,
-      "expiryDate": "2026-02-19T00:00:00.000",
+      "expiryDate": "2026-02-18T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -166,7 +166,7 @@
       "barcode": "8695340684205",
       "name": "Laktozsuz Kefir Altınkılıç",
       "qrData": null,
-      "expiryDate": "2026-02-19T00:00:00.000",
+      "expiryDate": "2026-02-18T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -174,7 +174,7 @@
       "barcode": "8699273577238",
       "name": "Yaban Mersini-Kayısı Kefir",
       "qrData": null,
-      "expiryDate": "2026-02-19T00:00:00.000",
+      "expiryDate": "2026-02-18T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -182,7 +182,7 @@
       "barcode": "8691658185014",
       "name": "Çokça Dürüm Çiğköfte",
       "qrData": null,
-      "expiryDate": "2026-02-19T00:00:00.000",
+      "expiryDate": "2026-02-18T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -190,7 +190,7 @@
       "barcode": "8694445789679",
       "name": "Birşah Çilekli Kefir",
       "qrData": null,
-      "expiryDate": "2026-02-27T00:00:00.000",
+      "expiryDate": "2026-02-20T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -198,7 +198,7 @@
       "barcode": "8698565943522",
       "name": "Eker Detoks Kefir",
       "qrData": null,
-      "expiryDate": "2026-02-27T00:00:00.000",
+      "expiryDate": "2026-02-20T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -206,7 +206,7 @@
       "barcode": "8699207086263",
       "name": "Torku Sütlü Mocha",
       "qrData": null,
-      "expiryDate": "2026-02-28T00:00:00.000",
+      "expiryDate": "2026-02-21T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -214,55 +214,7 @@
       "barcode": "8698457893690",
       "name": "Sütaş Ayran 1 LT",
       "qrData": null,
-      "expiryDate": "2026-02-22T00:00:00.000",
-      "notify1Day": 0,
-      "notify7Day": 1
-    },
-    {
-      "barcode": "8693271405593",
-      "name": "Torku Ayran 2.5L",
-      "qrData": null,
-      "expiryDate": "2026-02-23T00:00:00.000",
-      "notify1Day": 0,
-      "notify7Day": 1
-    },
-    {
-      "barcode": "8695902719956",
-      "name": "AltınKılıç Kefir Sade",
-      "qrData": null,
-      "expiryDate": "2026-02-23T00:00:00.000",
-      "notify1Day": 0,
-      "notify7Day": 1
-    },
-    {
-      "barcode": "8691936078168",
-      "name": "Sütaş Ayran 300 ml",
-      "qrData": null,
-      "expiryDate": "2026-02-24T00:00:00.000",
-      "notify1Day": 0,
-      "notify7Day": 1
-    },
-    {
-      "barcode": "8692658522106",
-      "name": "Baştacı Dana Döner",
-      "qrData": null,
-      "expiryDate": "2026-02-24T00:00:00.000",
-      "notify1Day": 0,
-      "notify7Day": 1
-    },
-    {
-      "barcode": "8692013232022",
-      "name": "Danone Milkshake",
-      "qrData": null,
-      "expiryDate": "2026-02-25T00:00:00.000",
-      "notify1Day": 0,
-      "notify7Day": 1
-    },
-    {
-      "barcode": "8697818138142",
-      "name": "Danone Süprix Çilekli Yoğurt",
-      "qrData": null,
-      "expiryDate": "2026-02-26T00:00:00.000",
+      "expiryDate": "2026-02-21T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
@@ -271,6 +223,54 @@
       "name": "Cokça hardal",
       "qrData": null,
       "expiryDate": "2026-02-21T00:00:00.000",
+      "notify1Day": 0,
+      "notify7Day": 1
+    },
+    {
+      "barcode": "8693271405593",
+      "name": "Torku Ayran 2.5L",
+      "qrData": null,
+      "expiryDate": "2026-02-22T00:00:00.000",
+      "notify1Day": 0,
+      "notify7Day": 1
+    },
+    {
+      "barcode": "8695902719956",
+      "name": "AltınKılıç Kefir Sade",
+      "qrData": null,
+      "expiryDate": "2026-02-22T00:00:00.000",
+      "notify1Day": 0,
+      "notify7Day": 1
+    },
+    {
+      "barcode": "8691936078168",
+      "name": "Sütaş Ayran 300 ml",
+      "qrData": null,
+      "expiryDate": "2026-02-23T00:00:00.000",
+      "notify1Day": 0,
+      "notify7Day": 1
+    },
+    {
+      "barcode": "8692658522106",
+      "name": "Baştacı Dana Döner",
+      "qrData": null,
+      "expiryDate": "2026-02-23T00:00:00.000",
+      "notify1Day": 0,
+      "notify7Day": 1
+    },
+    {
+      "barcode": "8692013232022",
+      "name": "Danone Milkshake",
+      "qrData": null,
+      "expiryDate": "2026-02-24T00:00:00.000",
+      "notify1Day": 0,
+      "notify7Day": 1
+    },
+    {
+      "barcode": "8697818138142",
+      "name": "Danone Süprix Çilekli Yoğurt",
+      "qrData": null,
+      "expiryDate": "2026-02-25T00:00:00.000",
       "notify1Day": 0,
       "notify7Day": 1
     },
